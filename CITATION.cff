@@ -1,10 +1,17 @@
 cff-version: 1.2.0
-message: "If you use this protocol or logic, please cite it as below."
+message: "If you use this protocol, implement this formula, or build hardware based on DVC, please cite it as follows to honor the original vision."
 authors:
-  - family-names: "Father"
-    given-names: "XiXi's"
+  - family-names: "XiXi's Father"
+    given-names: "A Father & IT Engineer"
     alias: "希希爸爸"
-title: "DVC Protocol: Dynamic Variance Control and Physical Sovereignty"
-version: 1.0.0
-date-released: 2026-02-17
-url: "https://github.com/YourUsername/DVC-Protocol-XiXi-Father"
+title: "DVC (Dynamic Variance Control) Protocol: The Physical Constraint for Honest AI"
+version: 2026.02.21
+date-released: 2026-02-21
+url: "https://github.com/your-repo-link"
+preferred-citation:
+  type: misc
+  authors:
+    - family-names: "XiXi's Father"
+  title: "y = f(1 + Δ): The Fundamental Equation of AI Physical Honesty"
+  year: 2026
+  notes: "Dedicated to my son XiXi and the future of human-AI harmony."
